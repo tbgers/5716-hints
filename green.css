@@ -1,0 +1,14 @@
+/* ==UserStyle==
+@name           5716 Hints (Green)
+@namespace      userstyles.world
+@version        1.0.0
+==/UserStyle== */
+a[href*="viewtopic.php?id=5716"]
+{
+    color: #60c860 !important;
+}
+
+a:hover[href*="viewtopic.php?id=5716"]
+{
+    color: #80ee80 !important;
+}
